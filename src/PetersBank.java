@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-//gfsfsdsdjfgfidhgfgsfdgbadsgsfdgndfsignsefdgndfj
-//crerated a new git file
+
 
 public class PetersBank {
     public PetersBank() {
